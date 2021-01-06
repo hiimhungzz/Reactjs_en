@@ -67,7 +67,7 @@
     "@material-ui/icons": "^4.9.1",
     "@syncfusion/ej2-react-inputs": "^18.2.44",
     "antd": "^4.3.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "compression": "1.7.4",
     "connected-react-router": "^6.8.0",
